@@ -4,7 +4,7 @@
  * It allows you to code on the microcontroller and save your programs
  * through the use of the EEPROM
  * 
- * Diego Villalvazo
+ * Xochitl Villalvazo Izquierdo
  * 2018
  */
 
